@@ -1,1 +1,1 @@
-{"version":3,"file":"WalletInstallLink.vue.d.ts","sourceRoot":"","sources":["../../../src/components/base/WalletInstallLink.vue"],"names":[],"mappings":"AAAA,OAAO,SAAS,MAAM,uIAAuI,CAAC;AAC9J,cAAc,uIAAuI,CAAC;AACtJ,eAAe,SAAS,CAAC"}
+{"version":3,"file":"WalletInstallLink.vue.d.ts","sourceRoot":"","sources":["../../../src/components/base/WalletInstallLink.vue"],"names":[],"mappings":"AAAA,OAAO,SAAS,MAAM,mKAAmK,CAAC;AAC1L,cAAc,mKAAmK,CAAC;AAClL,eAAe,SAAS,CAAC"}

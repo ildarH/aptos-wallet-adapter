@@ -1,1 +1,1 @@
-{"version":3,"file":"WalletConnectButton.vue.d.ts","sourceRoot":"","sources":["../../../src/components/base/WalletConnectButton.vue"],"names":[],"mappings":"AAAA,OAAO,SAAS,MAAM,yIAAyI,CAAC;AAChK,cAAc,yIAAyI,CAAC;AACxJ,eAAe,SAAS,CAAC"}
+{"version":3,"file":"WalletConnectButton.vue.d.ts","sourceRoot":"","sources":["../../../src/components/base/WalletConnectButton.vue"],"names":[],"mappings":"AAAA,OAAO,SAAS,MAAM,qKAAqK,CAAC;AAC5L,cAAc,qKAAqK,CAAC;AACpL,eAAe,SAAS,CAAC"}

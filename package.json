@@ -4,7 +4,12 @@
   "description": "Aptos Wallet Adapter Vue Provider",
   "license": "Apache-2.0",
   "type": "module",
-  "files": ["dist"],
+  "files": [
+    "dist",
+    "src",
+    "!src/**.test.ts",
+    "!src/**/__tests__"
+  ],
   "main": "./dist/wallet-adapter-vue.umd.cjs",
   "module": "./dist/wallet-adapter-vue.js",
   "types": "./dist/index.d.ts",
